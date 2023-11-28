@@ -1,5 +1,4 @@
-# Microsoft_Fabric_POC\
-# Project Title: Healthcare Data Insights with Microsoft Fabric and Power BI
+# Microsoft_Fabric_POC
 
 ## Overview
 
